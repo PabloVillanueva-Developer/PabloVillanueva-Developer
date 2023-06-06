@@ -1,4 +1,10 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Pablo Villanueva
+
+Soy un desarrollador de Argentina, en camino a convertirme en un programador Full-stack. 
+Disfruto abordar problemas complejos y convertirlos en diseños de interfaz simples y hermosos.
+
+También me encanta la lógica y la estructura de la codificación y siempre me esfuerzo por escribir código elegante y eficiente, ya sea HTML, CSS o JavaScript.
+
 
 <!--
 **PabloVillanueva-Developer/PabloVillanueva-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
